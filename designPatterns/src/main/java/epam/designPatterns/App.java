@@ -5,6 +5,7 @@ import org.apache.logging.log4j.LogManager;
 /**
  * Hello world!
  *
+ *Factory Method Pattern
  */
 public class App extends Phone
 {
